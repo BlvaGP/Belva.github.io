@@ -1,0 +1,17 @@
+Heading Utama: Belva Abthal Hidayat
+H1: Belva Abthal Hidayat
+H2: Mahasiswa
+H3: Tentang Saya
+H3: Profile Diri
+H3: Kemampuan Teknis
+H3: Lesson Learned
+H3: Harapan Setelah Lulus dari JTK
+H3: Temukan Saya di
+H3: Sosial Media
+Link Navigasi: #tentang-saya - Tentang Saya
+Link Navigasi: #profile-diri - Profile Diri
+Link Navigasi: #kemampuan-teknis - Kemampuan Teknis
+Link Navigasi: #lesson-learned - Lesson Learned
+Link Navigasi: #harapan - Harapan
+Link Navigasi: #lokasi - Lokasi
+Link Navigasi: #sosial-media - Sosial Media
